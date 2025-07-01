@@ -13,7 +13,6 @@
 - 🏢 I'm a Front-End Developer
 - 👨‍💻 As a CS graduate, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and front-end tools, or anything related to web development.
-- ⚡ Fun Fact: I’m a huge Barcelona fan and I consider Shikabala the best player in history!
 - 🌐 Check out my portfolio soon — under construction 🚧
 
 ### Connect with Me :
